@@ -7,7 +7,7 @@ app = customtkinter.CTk()
 app.geometry("600x400")
 app.title("Wheather App")
 
-API_KEY = "592826e13ba208386547ce38c45167e9"
+API_KEY = enter api key
 
 #function
 
